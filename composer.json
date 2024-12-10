@@ -21,7 +21,7 @@
     "minimum-stability": "stable",
     "require": {
     	"php": ">=5.4.0",
-    	"ezyang/htmlpurifier": "^4.6.*",
+    	"ezyang/htmlpurifier": "^4.18.0",
     	"swiftmailer/swiftmailer": "~5.0",
     	"gregwar/captcha": "1.*", 
     	"phpoffice/phpexcel": "1.8.*",
